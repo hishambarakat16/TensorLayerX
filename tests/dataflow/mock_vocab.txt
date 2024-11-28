@@ -1,0 +1,15 @@
+_PAD
+_GO
+_EOS
+_UNK
+hello
+world
+this
+is
+a
+test
+sentence
+how
+are
+you
+?
